@@ -98,6 +98,8 @@ div{
 #img {
     float: left;
     margin: 25px;
+    width: 160px;
+    height: 160px;
 }
 
 #aboutmetext {
